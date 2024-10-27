@@ -25,7 +25,7 @@ Vulindlela is seeking a talented and motivated Junior React Developer to assist 
 4. Submit the link to your GitHub Repo via the LMS Project Tab by the deadline.
 
 ### Link to Cover Letter
-[Your Google Docs Cover Letter](<https://docs.google.com/document/d/1Q6rZz8O2kVv22nsAuon8yJvbGkQzMClQ/edit?usp=share_link&ouid=111343319806561133549&rtpof=true&sd=true>)
+[Your Google Docs Cover Letter](<[https://docs.google.com/document/d/1Q6rZz8O2kVv22nsAuon8yJvbGkQzMClQ/edit?usp=share_link&ouid=111343319806561133549&rtpof=true&sd=true](https://docs.google.com/document/d/1Q6rZz8O2kVv22nsAuon8yJvbGkQzMClQ/edit?usp=share_link&ouid=111343319806561133549&rtpof=true&sd=true)>)
 
 For detailed project instructions, including the job description and specific sections to include in your cover letter, please refer to the provided project brief on the LMS.
 
